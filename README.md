@@ -10,10 +10,8 @@ data/
 
 health_infrastructure_FINAL.csv
 health_infrastructure_ORIGINAL.csv
-health_outcomes.csv
 income_data.csv
 Recognized_Shop_Healthy_Stores.csv
-NYC_Parks_Active_and_Passive_Recreation.csv
 
 visualizations/
 
