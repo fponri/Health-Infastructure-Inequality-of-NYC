@@ -1,0 +1,140 @@
+name,address,lat,lon,price_level,rating,category,neighborhood
+SWEAT440 Fitness Chelsea,"600 6th Ave, New York, NY 10011, USA",40.739371399999996,-73.99511389999999,N/A,4.9,gym,Chelsea
+Crunch Fitness - Chelsea,"220 W 19th St, New York, NY 10011, USA",40.7418793,-73.9985166,N/A,4.2,gym,Chelsea
+Chelsea Piers Fitness,"60 Chelsea Piers, New York, NY 10011, USA",40.746645,-74.01005700000002,N/A,4.3,gym,Chelsea
+"Iron Bodyfit Chelsea, NYC","220 W 16th St, New York, NY 10011, USA",40.7402246,-73.9999212,N/A,4.9,gym,Chelsea
+BODYROK Chelsea,"110 W 27th St, New York, NY 10001, USA",40.7456129,-73.9917459,N/A,4.9,gym,Chelsea
+JETSET Pilates - Chelsea,"129 W 20th St, New York, NY 10011, USA",40.7417868,-73.99538319999999,N/A,N/A,gym,Chelsea
+Gym U NYC,"215 W 23rd St, New York, NY 10011, USA",40.7445928,-73.9961144,N/A,4.2,gym,Chelsea
+The Fit Faction,"127 W 26th St Store 2, New York, NY 10001, USA",40.7455052,-73.9925205,N/A,5,gym,Chelsea
+Barry's Chelsea,"135 W 20th St, New York, NY 10011, USA",40.7418531,-73.995542,N/A,4.6,gym,Chelsea
+Body Space Fitness Union Square,"47 W 14th St floor 5, New York, NY 10011, USA",40.73709,-73.995779,PRICE_LEVEL_MODERATE,4.8,gym,Chelsea
+PureGym Chelsea,"308 8th Ave, New York, NY 10001, USA",40.7467943,-73.9971016,N/A,4.3,gym,Chelsea
+Progressive Fitness Training,"135 W 20th St, New York, NY 10011, USA",40.7418675,-73.9955439,N/A,4.9,gym,Chelsea
+Chelsea Piers Fitness,"308 Park Ave S, New York, NY 10010, USA",40.740508999999996,-73.9864343,N/A,4.2,gym,Chelsea
+The Limit,"606 W 26th St, New York, NY 10001, USA",40.750866200000004,-74.00613059999999,N/A,4.9,gym,Chelsea
+Equinox High Line,"100 10th Ave, New York, NY 10011, USA",40.7438299,-74.00672469999999,N/A,3.8,gym,Chelsea
+F45 Training Flatiron,"123 W 20th St, New York, NY 10011, USA",40.7416955,-73.99510959999999,N/A,4.8,gym,Chelsea
+Hudson Training NYC,"135 W 26th St Suite 6C, New York, NY 10001, USA",40.745519699999996,-73.9927182,N/A,4.9,gym,Chelsea
+CompleteBody 19th Street,"22 W 19th St, New York, NY 10011, USA",40.7394932,-73.9928627,N/A,4.7,gym,Chelsea
+Bk Pilates - Chelsea,"248 W 14th St Second Floor, New York, NY 10011, USA",40.739333099999996,-74.002067,N/A,4.2,gym,Chelsea
+Focus Integrated Fitness,"115 W 27th St #1101, New York, NY 10001, USA",40.7458514,-73.9917573,N/A,4.9,gym,Chelsea
+Grit City Strength & Conditioning,"391 Concord Ave, Bronx, NY 10454, USA",40.8091514,-73.9099413,N/A,4.8,gym,Mott Haven
+The Pearl Pilates Haven,"11 Bruckner Blvd, Bronx, NY 10454, USA",40.808039,-73.929605,N/A,5,gym,Mott Haven
+Equis Fitness,"242 E 137th St floor 1, Bronx, NY 10451, USA",40.811018,-73.92888099999999,N/A,4.9,gym,Mott Haven
+Iron Punisher Gym,"270 Rider Ave, Bronx, NY 10451, USA",40.8119769,-73.92765949999999,N/A,4.9,gym,Mott Haven
+Trader Joe's,"675 6th Ave, New York, NY 10010, USA",40.741896200000006,-73.99381679999999,PRICE_LEVEL_MODERATE,4.6,grocery,Chelsea
+Chelsea Market,"75 9th Ave, New York, NY 10011, USA",40.7424396,-74.0061439,N/A,4.6,grocery,Chelsea
+Whole Foods Market,"250 7th Ave, New York, NY 10001, USA",40.7449592,-73.99529129999999,PRICE_LEVEL_MODERATE,4.2,grocery,Chelsea
+Fairway Market of Chelsea,"766 6th Ave, New York, NY 10010, USA",40.7445028,-73.99142499999999,N/A,4.2,grocery,Chelsea
+Westside Market NYC,"170 W 23rd St, New York, NY 10011, USA",40.7436655,-73.9951853,N/A,4.3,grocery,Chelsea
+Ideal Marketplace,"317 9th Ave, New York, NY 10001, USA",40.7500302,-73.99897399999999,N/A,4.1,grocery,Chelsea
+Westside Market NYC,"77 7th Ave, New York, NY 10011, USA",40.7387517,-73.99907639999999,PRICE_LEVEL_MODERATE,4.1,grocery,Chelsea
+Whole Foods Market,"450 W 33rd St, New York, NY 10001, USA",40.7528918,-73.99973709999999,N/A,4.3,grocery,Chelsea
+Pearl River Mart Foods,"Chelsea Market, Lower Level, 75 9th Ave, New York, NY 10011, USA",40.7428514,-74.0064061,N/A,4.3,grocery,Chelsea
+Chelsea Food Mart,"194 8th Ave, New York, NY 10011, USA",40.7431251,-73.999653,PRICE_LEVEL_MODERATE,4.8,grocery,Chelsea
+Hudson Market,"303 10th Ave, New York, NY 10001, USA",40.7507083,-74.00243739999999,N/A,3.8,grocery,Chelsea
+Buon'Italia,"75 9th Ave, New York, NY 10011, USA",40.742875,-74.006473,PRICE_LEVEL_MODERATE,4,grocery,Chelsea
+Gristedes,"225 9TH AVE, W 24th St, New York, NY 10011, USA",40.7470808,-74.0011597,N/A,3.4,grocery,Chelsea
+Heavenly Food Market,"311 11th Ave, New York, NY 10001, USA",40.753174699999995,-74.0045811,N/A,4.1,grocery,Chelsea
+Eataly - Flatiron,"200 5th Ave, New York, NY 10010, USA",40.742045,-73.9900845,PRICE_LEVEL_MODERATE,4.4,grocery,Chelsea
+Gourmet Square Organic Market,"248 9th Ave, New York, NY 10001, USA",40.7475258,-74.00034889999999,N/A,4.5,grocery,Chelsea
+Gristedes,"225 8th Ave, New York, NY 10011, USA",40.74445300000001,-73.99954199999999,N/A,3.6,grocery,Chelsea
+Pearl River Mart at Chelsea Market,"75 9th Ave, New York, NY 10011, USA",40.742828700000004,-74.00635249999999,N/A,4.2,grocery,Chelsea
+Galleria Marketplace,"203 10th Ave, New York, NY 10011, USA",40.7471861,-74.00474779999999,N/A,3.8,grocery,Chelsea
+Whole Foods Market,"63 Madison Ave, New York, NY 10016, USA",40.7437483,-73.9855594,N/A,4.4,grocery,Chelsea
+Shop Fair of Mott Haven,"228 Brook Ave, Bronx, NY 10454, USA",40.8069761,-73.91932969999999,PRICE_LEVEL_MODERATE,4.2,grocery,Mott Haven
+Shop Fair Supermarket,"345 St Ann's Ave, Bronx, NY 10454, USA",40.809508,-73.91614299999999,N/A,4.1,grocery,Mott Haven
+SuperFresh South Bronx,"459 E 149th St, Bronx, NY 10455, USA",40.8154183,-73.9151832,N/A,4.2,grocery,Mott Haven
+Motthaven Marketplace,"441 Gerard Ave, Bronx, NY 10451, USA",40.817531699999996,-73.9301127,N/A,4.1,grocery,Mott Haven
+FreshDirect,"2 St Ann's Ave, Bronx, NY 10454, USA",40.801309599999996,-73.9192702,N/A,3.9,grocery,Mott Haven
+FoodFest Depot,"500 E 132nd St, Bronx, NY 10454, USA",40.803090499999996,-73.9211825,N/A,4.4,grocery,Mott Haven
+Pioneer Supermarkets of Willis,"250 Willis Ave, Bronx, NY 10454, USA",40.809211399999995,-73.9224917,N/A,3.6,grocery,Mott Haven
+Western Beef Supermarket,"301 Morris Ave, Bronx, NY 10451, USA",40.8126472,-73.9264185,N/A,4,grocery,Mott Haven
+10 Days Grocery,"459 Brook Ave, Bronx, NY 10455, USA",40.812646,-73.9164591,N/A,4.5,grocery,Mott Haven
+Borinquen Supermarket,"436 Brook Ave, Bronx, NY 10454, USA",40.8120848,-73.9164055,N/A,4.1,grocery,Mott Haven
+Met Foodmarkets of Jackson Ave,"649 Jackson Ave, Bronx, NY 10455, USA",40.815612300000005,-73.90850499999999,N/A,3.6,grocery,Mott Haven
+Super Associated Fresh,"616 Melrose Ave, Bronx, NY 10455, USA",40.8177284,-73.9168699,N/A,3.8,grocery,Mott Haven
+672 E 138th Food Corporation,"672 E 138th St, Bronx, NY 10454, USA",40.8053733,-73.914407,N/A,4.4,grocery,Mott Haven
+Pioneer Supermarkets of St Ann's,"256 St Ann's Ave, Bronx, NY 10454, USA",40.8072264,-73.9169563,N/A,3.5,grocery,Mott Haven
+CTown Supermarkets,"2733 3rd Ave, Bronx, NY 10451, USA",40.814475699999996,-73.9213027,PRICE_LEVEL_MODERATE,3.9,grocery,Mott Haven
+Noah deli and grocery,"229 St Ann's Ave, Bronx, NY 10454, USA",40.8074967,-73.9172207,N/A,4.6,grocery,Mott Haven
+141 Grocery and Deli,"2628 3rd Ave, Bronx, NY 10454, USA",40.8123965,-73.924424,N/A,4.2,grocery,Mott Haven
+FOOD BAZAAR,"610 Exterior St 4th FLOOR, Bronx, NY 10451, USA",40.8217666,-73.92993249999999,N/A,4.6,grocery,Mott Haven
+CTown Supermarkets,"423 Grand Concourse, Bronx, NY 10451, USA",40.816747199999995,-73.928367,N/A,3.5,grocery,Mott Haven
+CTown Supermarkets,"564 Southern Blvd, Bronx, NY 10455, USA",40.8123109,-73.90272159999999,PRICE_LEVEL_MODERATE,3.5,grocery,Mott Haven
+SCULPT NEW YORK,"410 W 24th St, New York, NY 10011, USA",40.7472085,-74.0013378,N/A,5,gym,Chelsea
+Creative Core Pilates Chelsea,"119 W 23rd St suite 407, New York, NY 10011, USA",40.7435419,-73.9933767,N/A,5,gym,Chelsea
+KKSWEAT,"27 W 20th St Suite 202, New York, NY 10011, USA",40.7406158,-73.9927218,N/A,4.8,gym,Chelsea
+The Pilates Circuit CHELSEA | Private Reformer Pilates,"DEZER BUILDING, 48 W 21st St #905, New York, NY 10010, USA",40.741046999999995,-73.99291699999999,N/A,5,gym,Chelsea
+Tone House,"32 E 31st St, New York, NY 10016, USA",40.745394,-73.983836,N/A,4.7,gym,Chelsea
+Core Rhythm Fitness,"25 W 14th St, New York, NY 10011, USA",40.73678340000001,-73.99484819999999,N/A,4.9,gym,Chelsea
+Speakeasy of Strength - Hell's Kitchen,"411 W 39th St, New York, NY 10018, USA",40.757000999999995,-73.9945429,N/A,5,gym,Chelsea
+Bombshell Pilates Chelsea,"135 W 20th St #301, New York, NY 10011, USA",40.741859999999996,-73.99575329999999,N/A,4.8,gym,Chelsea
+Club Pilates,"601 W 26th St, New York, NY 10001, USA",40.751042299999995,-74.00592069999999,N/A,4.9,gym,Chelsea
+Body Evolutions Chelsea,"buzzer 2, 57 W 16th St 2nd Floor, New York, NY 10011, USA",40.7386731,-73.99551389999999,N/A,4.3,gym,Chelsea
+OUT-FIT,"250 W 26th St #202, New York, NY 10001, USA",40.746708,-73.9963953,N/A,4.9,gym,Chelsea
+Nofar Method Flatiron,"15 W 18th St 2nd Floor, New York, NY 10011, USA",40.7391382,-73.9928051,N/A,4.8,gym,Chelsea
+The Pack,"49 W 23rd St, New York, NY 10010, USA",40.7425959,-73.9913443,N/A,5,gym,Chelsea
+Hot Yoga Chelsea / Flatiron NYC,"115 W 27th St 3rd floor, New York, NY 10001, USA",40.745885,-73.991768,N/A,4.9,gym,Chelsea
+Yogamaya,"151 W 19th St 3rd floor, New York, NY 10011, USA",40.74145,-73.99649389999999,N/A,4.7,gym,Chelsea
+SOUK Yoga Studio,"12 W 27th St 2nd floor, New York, NY 10001, USA",40.744675,-73.989373,N/A,4.9,gym,Chelsea
+Sivananda Yoga Vedanta Center,"243 W 24th St, New York, NY 10011, USA",40.745672299999995,-73.9968566,N/A,4.5,gym,Chelsea
+Humming Puppy Yoga New York City,"119 W 23rd St level 2 suite 200, New York, NY 10011, USA",40.7434918,-73.9934249,N/A,4.4,gym,Chelsea
+Integral Yoga Institute,"227 W 13th St, New York, NY 10011, USA",40.7385123,-74.00141769999999,N/A,4.8,gym,Chelsea
+LYONS DEN POWER YOGA,"267 W 17th St 2nd floor, New York, NY 10011, USA",40.7416609,-74.0007935,N/A,4.8,gym,Chelsea
+Samamkaya Yoga Back Care & Scoliosis Collective,"119 W 23rd St #406, New York, NY 10011, USA",40.7436088,-73.99329089999999,N/A,5,gym,Chelsea
+ASIA YOGA NYC,"147 W 35th St 4th Floor, Ste 408, New York, NY 10001, USA",40.751419999999996,-73.9890978,N/A,5,gym,Chelsea
+bodē nyc Flatiron - Original Hot Yoga,"182 5th Ave, New York, NY 10010, USA",40.741313,-73.99001799999999,N/A,4.3,gym,Chelsea
+Iyengar Yoga Institute of New York,"150 W 22nd St 2nd Fl, New York, NY 10011, USA",40.742922199999995,-73.99536069999999,N/A,4.8,gym,Chelsea
+Body & Brain Yoga Tai Chi,"830 6th Ave Fl 3, New York, NY 10001, USA",40.7463955,-73.98990959999999,N/A,5,gym,Chelsea
+Y7 Studio Flatiron,"25 W 23rd St 3rd floor, New York, NY 10010, USA",40.742221,-73.9904449,N/A,4,gym,Chelsea
+Dharma Yoga Center,"46 W 24th St Lobby Floor, New York, NY 10010, USA",40.7432016,-73.99180919999999,PRICE_LEVEL_MODERATE,4.4,gym,Chelsea
+Upper West Side Yoga and Wellness,"75B W 85th St, New York, NY 10024, USA",40.785731899999995,-73.972227,N/A,5,gym,Chelsea
+Three Sisters Yoga,"545 8th Ave #1540, New York, NY 10018, USA",40.7545375,-73.99225160000002,N/A,4.8,gym,Chelsea
+Puppy Sphere | Puppy Yoga (Flatiron),"114 W 27th St, New York, NY 10001, USA",40.7456056,-73.9919632,N/A,4.8,gym,Chelsea
+bodē nyc Upper East Side,"173 E 83rd St, New York, NY 10028, USA",40.7771451,-73.9556468,N/A,4.2,gym,Chelsea
+ID Hot Yoga Nomad,"284 5th Ave Ground Floor, New York, NY 10001, USA",40.7461845,-73.98677889999999,N/A,4.9,gym,Chelsea
+Prima Forme,"242 W 27th St #6a, New York, NY 10001, USA",40.7472616,-73.9959235,N/A,5,gym,Chelsea
+Praxis Pilates,"55 W 28th St, New York, NY 10001, USA",40.745992199999996,-73.9901182,N/A,5,gym,Chelsea
+The Space Pilates Studio,"36 W 20th St 2nd Floor, New York, NY 10011, USA",40.7403914,-73.99311229999999,N/A,5,gym,Chelsea
+New York Pilates Flatiron,"17 W 17th St Ground Floor, New York, NY 10011, USA",40.738524399999996,-73.9932413,N/A,4.8,gym,Chelsea
+Cosmo Pilates Movement Lab,"124 W 36th St. 6F front, New York, NY 10018, USA",40.7514727,-73.9881911,N/A,5,gym,Chelsea
+Vita Pilates x Merrithew® Host Training Center,"224 W 35th St #802, New York, NY 10001, USA",40.7518581,-73.9912986,N/A,5,gym,Chelsea
+Power Pilates,"161 W 23rd St 2nd Floor, New York, NY 10011, USA",40.74406320000001,-73.99483,N/A,3.8,gym,Chelsea
+BODYROK Meatpacking,"410 W 14th St 3rd Floor, New York, NY 10014, USA",40.7410004,-74.0062106,N/A,4.9,gym,Chelsea
+BODYROK FLATIRON STUDIO,"10 W 18th St Buzz Floor 2, New York, NY 10011, USA",40.738765,-73.992897,N/A,4.8,gym,Chelsea
+Craft Pilates Upper West Side,"644 Amsterdam Ave, New York, NY 10025, USA",40.7912574,-73.97280889999999,N/A,5,gym,Chelsea
+Monad Pilates,"135 W 26th St Suite 3C, New York, NY 10001, USA",40.7455974,-73.9926799,N/A,5,gym,Chelsea
+Classical Pilates NYC,"130 W 28th St, New York, NY 10001, USA",40.7464319,-73.9919385,N/A,5,gym,Chelsea
+[solidcore] Chelsea,"155 W 23rd St, New York, NY 10011, USA",40.743953,-73.994592,N/A,3.5,gym,Chelsea
+The Pearl Pilates & Yoga,"319 City Island Ave, Bronx, NY 10464, USA",40.847413700000004,-73.7868908,N/A,4.9,gym,Mott Haven
+Drip Sweat,"2178 Amsterdam Ave, New York, NY 10032, USA",40.83982950000001,-73.9371705,N/A,4.9,gym,Mott Haven
+DARO'S EXTREME FITNESS,"1125 Bronx River Ave, Bronx, NY 10472, USA",40.8259183,-73.88375909999999,N/A,4.3,gym,Mott Haven
+Hurricane Fitness,"226 W 141st St, New York, NY 10030, USA",40.8197116,-73.94279089999999,N/A,5,gym,Mott Haven
+Uptown Strength NYC,"754B St Nicholas Ave, New York, NY 10031, USA",40.8258819,-73.9432119,N/A,4.9,gym,Mott Haven
+Harlem Kettlebell Club,"1775 Madison Ave, New York, NY 10035, USA",40.8003128,-73.94436309999999,N/A,5,gym,Mott Haven
+Studio in the Heights,"617 W 181st St, New York, NY 10033, USA",40.8497689,-73.93446089999999,N/A,4.9,gym,Mott Haven
+The Harlem Method,"60 W 129th St, New York, NY 10027, USA",40.810034,-73.9432915,N/A,5,gym,Mott Haven
+Blink Fitness Concourse Village,"820 Concourse Village W, Bronx, NY 10451, USA",40.82518470000001,-73.921825,N/A,4.1,gym,Mott Haven
+The LIV Method UES,"157 East 86th St 3rd Floor, New York, NY 10028, USA",40.779443799999996,-73.9547643,N/A,4.2,gym,Mott Haven
+lagree ny - Fitness Studio,"27-11 23rd Ave, Astoria, NY 11105, USA",40.775957299999995,-73.9146207,N/A,4.8,gym,Mott Haven
+X 93 Fitness,"673 Amsterdam Ave, New York, NY 10025, USA",40.7918532,-73.9717192,N/A,5,gym,Mott Haven
+Active Studios NYC,"1521 York Ave, New York, NY 10028, USA",40.7725313,-73.94992359999999,N/A,5,gym,Mott Haven
+The Row Astoria,"18-25 26th Rd, Astoria, NY 11102, USA",40.773402999999995,-73.926321,N/A,5,gym,Mott Haven
+"Benswic, Inc","2473 Frederick Douglass Blvd fl 1, New York, NY 10027, USA",40.8149662,-73.9478964,N/A,4.9,gym,Mott Haven
+Trader Joe's,"142 E 14th St, New York, NY 10003, USA",40.733371,-73.9878966,PRICE_LEVEL_MODERATE,4.5,grocery,Chelsea
+Whole Foods Market,"4 Union Sq E, New York, NY 10003, USA",40.7346935,-73.9912519,PRICE_LEVEL_EXPENSIVE,4.2,grocery,Chelsea
+Whole Foods Market,"409 E 14th St, New York, NY 10009, USA",40.7310514,-73.980845,N/A,3.3,grocery,Chelsea
+Trader Joe's,"405 E 59th St, New York, NY 10022, USA",40.759703200000004,-73.9615347,N/A,4.7,grocery,Chelsea
+Trader Joe's,"2073 Broadway, New York, NY 10023, USA",40.778563899999995,-73.98231419999999,PRICE_LEVEL_MODERATE,4.5,grocery,Chelsea
+Trader Joe's,"200 E 32nd St, New York, NY 10016, USA",40.7439882,-73.97908389999999,PRICE_LEVEL_MODERATE,4.5,grocery,Chelsea
+Trader Joe's,"670 Columbus Ave, New York, NY 10025, USA",40.7908176,-73.9693698,PRICE_LEVEL_MODERATE,4.6,grocery,Chelsea
+Whole Foods Market,"1551 3rd Ave, New York, NY 10128, USA",40.7796707,-73.9529499,PRICE_LEVEL_EXPENSIVE,4,grocery,Chelsea
+Whole Foods Market,"270 Greenwich St, New York, NY 10007, USA",40.7155877,-74.0114521,PRICE_LEVEL_EXPENSIVE,4.4,grocery,Chelsea
+Whole Foods Market,"66 Broadway, New York, NY 10005, USA",40.7071125,-74.0119287,N/A,4.3,grocery,Chelsea
+Trader Joe's,"436 E 14th St, New York, NY 10009, USA",40.730446,-73.9809993,N/A,4.6,grocery,Chelsea
+Whole Foods Market,"1095 6th Ave, New York, NY 10036, USA",40.7545529,-73.984657,PRICE_LEVEL_EXPENSIVE,4.3,grocery,Chelsea
+Whole Foods Market,"301 W 50th St, New York, NY 10019, USA",40.762656299999996,-73.9862255,N/A,4,grocery,Chelsea
+Whole Foods Market Floral,"250 7th Ave 4th floor, New York, NY 10001, USA",40.7449529,-73.9952959,N/A,N/A,grocery,Chelsea
+Whole Foods Market,"226 E 57th St, New York, NY 10022, USA",40.75957220000001,-73.9663329,PRICE_LEVEL_EXPENSIVE,4.2,grocery,Chelsea
